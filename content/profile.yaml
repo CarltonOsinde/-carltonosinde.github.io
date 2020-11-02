@@ -1,0 +1,30 @@
+- profile:
+  initials: CO
+  name: Carlton Osinde
+  email: carltonosinde@gmail.com
+  profession: Jr. Data Scientist
+  image: images/e-profile.jpg
+  location: Toronto, CA
+  relocation: true
+  company: TD Bank
+  for_hire: true
+  focus: Machine Learning and AI
+  focus_url: https://gatsbyjs.org
+  about: |
+    I am a fourth year co-op student in the Computer Science program at York University with a deep interest in data science and machine learning.
+
+    With core foundations in Object Oriented Programming, Data Structures and Algorithms. I look to combine my analytical mind and programming knowledge to creatively solve and analyze problems using data, in order to help organizations make smarter business decisions.
+
+  skills:
+    - Python
+    - Java
+    - R
+  tools:
+    - Microsoft Azure
+    - VSCode
+    - AWS
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
