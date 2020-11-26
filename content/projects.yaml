@@ -1,9 +1,29 @@
-- name: Stock Price Prediction
+- name: ML Stock Price Prediction
   description: Create a model that will predict six months of price movements based of a quarterly organization report.
   status: in progress
   tags:
     - Python
   icon: github
+
+  - name: ATM System
+  url: https://github.com/CarltonOsinde/ATM-Project
+  description: An automated teller machine with user's Account Number, Password, bank account, deposit, and that users can withdraw or view their account balance.
+  status: live
+  tags:
+    - Java
+    - JDBC
+    - Swing
+  icon: github
+
+  - name: 4-TIPS
+  url: https://devpost.com/software/4tips
+  description: The web-application aims to provide information on how black people with Type 4 can manage their hair and not only what the best products to use are but also where to find these products.
+  status: live
+  tags:
+    - IBM Watson Assistant
+    - Bulma CSS
+  icon: devpost
+
 
 - name: Sports-Betting App
   url: https://github.com/CarltonOsinde/Sports-Betting-App-Python
@@ -12,4 +32,6 @@
   tags:
     - Python
     - Rundown API
-  icon: website
+  icon: github
+
+
