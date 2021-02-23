@@ -5,7 +5,7 @@
     - Python
   icon: github
 
-  - name: ATM System
+  - name: ATM-System
   url: https://github.com/CarltonOsinde/ATM-Project
   description: An automated teller machine with user's Account Number, Password, bank account, deposit, and that users can withdraw or view their account balance.
   status: live
