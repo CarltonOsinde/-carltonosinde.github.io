@@ -17,11 +17,13 @@
 
   - name: 4-TIPS
   url: https://devpost.com/software/4tips
-  description: The web-application aims to provide information on how black people with Type 4 can manage their hair and not only what the best products to use are but also where to find these products.
+  description: A web platform that uses Google's AutoML Object Detection to perform image classification and using a dataset to train and determine your Type-4 hair. We then advice the user on what products and tips to use. A future enhancement will integrate a Google Maps API to map the closest beauty store to the user.
   status: live
   tags:
-    - IBM Watson Assistant
-    - Bulma CSS
+    - Google AutoML
+    - Bootstrap
+    - CSS
+    - HTML5
   icon: devpost
 
 
