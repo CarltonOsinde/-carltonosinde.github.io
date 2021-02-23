@@ -5,7 +5,7 @@
     - Python
   icon: github
 
-  - name: ATM-System
+- name: ATM-System
   url: https://github.com/CarltonOsinde/ATM-Project
   description: An automated teller machine with user's Account Number, Password, bank account, deposit, and that users can withdraw or view their account balance.
   status: live
@@ -15,7 +15,7 @@
     - Swing
   icon: github
 
-  - name: 4-TIPS
+- name: 4-TIPS
   url: https://devpost.com/software/4tips
   description: A web platform that uses Google's AutoML Object Detection to perform image classification and using a dataset to train and determine your Type-4 hair. We then advice the user on what products and tips to use. A future enhancement will integrate a Google Maps API to map the closest beauty store to the user.
   status: live
