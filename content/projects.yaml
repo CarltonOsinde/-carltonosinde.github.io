@@ -1,9 +1,13 @@
-- name: ML Stock Price Prediction
-  description: Create a model that will predict six months of price movements based of a quarterly organization report.
-  status: in progress
+- name: 4-TIPS
+  url: https://devpost.com/software/4tips
+  description: A web platform that uses Google's AutoML Object Detection to determine your Type-4 hair .
+  status: In Progress
   tags:
-    - Python
-  icon: github
+    - Google AutoML
+    - React
+    - Express.js
+    - MongoDb
+  icon: devpost
 
 - name: ATM-System
   url: https://github.com/CarltonOsinde/ATM-Project
@@ -15,21 +19,9 @@
     - Swing
   icon: github
 
-- name: 4-TIPS
-  url: https://devpost.com/software/4tips
-  description: A web platform that uses Google's AutoML Object Detection to perform image classification and using a dataset to train and determine your Type-4 hair. We then advice the user on what products and tips to use. A future enhancement will integrate a Google Maps API to map the closest beauty store to the user.
-  status: live
-  tags:
-    - Google AutoML
-    - Bootstrap
-    - CSS
-    - HTML5
-  icon: devpost
-
-
 - name: Sports-Betting App
   url: https://github.com/CarltonOsinde/Sports-Betting-App-Python
-  description: Leverages the Rundown Sports API on a web platform to create coefficients for betters' to use.
+  description: Utilized the Rundown API to mimic a betting app.
   status: live
   tags:
     - Python
