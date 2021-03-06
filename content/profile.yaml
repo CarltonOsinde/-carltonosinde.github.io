@@ -2,25 +2,27 @@
   initials: CO
   name: Carlton Osinde
   email: carltonosinde@gmail.com
-  profession: Software Engineer
+  profession: Jr. Data Scientist
   image: images/e-profile.jpg
   location: Toronto, CA
   relocation: true
-  company: York University
+  company: TD Bank
   for_hire: true
-  focus: Back-End Engineering
+  focus: Machine Learning and AI
   focus_url: https://www.carltonosinde.com
   about: |
-        With core foundations in Object Oriented Programming, Data Structures and Algorithms. I look to combine my analytical mind and programming knowledge to creatively solve and analyze problems using data, in order to help organizations make smarter business decisions.
+    I am a fourth year co-op student in the Computer Science program at York University with a deep interest in data science and machine learning.
+
+    With core foundations in Object Oriented Programming, Data Structures and Algorithms. I look to combine my analytical mind and programming knowledge to creatively solve and analyze problems using data, in order to help organizations make smarter business decisions.
 
   skills:
     - Python
-    - JavaScript
-    - SQL
+    - Java
+    - R
   tools:
-    - Git
-    - Linux
-    - VS Code
+    - Microsoft Azure
+    - VSCode
+    - AWS
   budget:
     currency: $
     min: 5
