@@ -5,7 +5,7 @@
     - Python
   icon: github
 
-  - name: ATM System
+- name: ATM System
   url: https://github.com/CarltonOsinde/ATM-Project
   description: An automated teller machine with user's Account Number, Password, bank account, deposit, and that users can withdraw or view their account balance.
   status: live
@@ -15,7 +15,7 @@
     - Swing
   icon: github
 
-  - name: 4-TIPS
+- name: 4-TIPS
   url: https://devpost.com/software/4tips
   description: The web-application aims to provide information on how black people with Type 4 can manage their hair and not only what the best products to use are but also where to find these products.
   status: live
