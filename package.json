@@ -48,7 +48,7 @@
   "license": "MIT",
   "scripts": {
     "build": "npm run build",
-    "develop": "gatsby develop",
+    "develop": "npm run build && gh-pages -d public --branch develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
