@@ -1,11 +1,15 @@
-- name: ML Stock Price Prediction
-  description: Create a model that will predict six months of price movements based of a quarterly organization report.
-  status: in progress
+- name: 4-TIPS
+  url: https://devpost.com/software/4tips
+  description: A web platform that uses Google's AutoML Object Detection to determine your Type-4 hair .
+  status: In Progress
   tags:
-    - Python
-  icon: github
+    - Google AutoML
+    - React
+    - Express.js
+    - MongoDb
+  icon: devpost
 
-- name: ATM System
+- name: ATM-System
   url: https://github.com/CarltonOsinde/ATM-Project
   description: An automated teller machine with user's Account Number, Password, bank account, deposit, and that users can withdraw or view their account balance.
   status: live
@@ -15,19 +19,9 @@
     - Swing
   icon: github
 
-- name: 4-TIPS
-  url: https://devpost.com/software/4tips
-  description: The web-application aims to provide information on how black people with Type 4 can manage their hair and not only what the best products to use are but also where to find these products.
-  status: live
-  tags:
-    - IBM Watson Assistant
-    - Bulma CSS
-  icon: devpost
-
-
 - name: Sports-Betting App
   url: https://github.com/CarltonOsinde/Sports-Betting-App-Python
-  description: Leverages the Rundown Sports API on a web platform to create coefficients for betters' to use.
+  description: Utilized the Rundown API to mimic a betting app.
   status: live
   tags:
     - Python
