@@ -28,7 +28,7 @@ export const ProfileType = {
 }
 
 export const query = graphql`
-  fragment ProfileFragment on ProfileYaml {
+  fragment ProfilFragment on ProfileYaml {
     about
     budget {
       currency
