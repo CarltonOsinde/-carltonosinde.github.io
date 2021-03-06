@@ -40,30 +40,4 @@ const IndexPage = ({ data }) => {
 
 export default IndexPage
 
-export const query = graphql`
-  query {
-    site {
-      siteMetadata {
-        showThemeLogo
-      }
-    }
-    profile: profileYaml {
-      ...ProfileFragment
-    }
-    social: allSocialYaml(filter: { url: { ne: null } }) {
-      nodes {
-        ...SocialFragment
-      }
-    }
-    history: allWorkHistoryYaml {
-      nodes {
-        ...WorkHistoryFragment
-      }
-    }
-    projects: allProjectsYaml {
-      nodes {
-        ...ProjectFragment
-      }
-    }
-  }
-`
+
