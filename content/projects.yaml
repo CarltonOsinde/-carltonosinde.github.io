@@ -7,18 +7,19 @@
     - React
     - Express.js
     - MongoDb
-  icon: devpost
+  icon: github
   image: images/4-TIPS-logo.png
 
-- name: ATM-System
-  url: https://github.com/CarltonOsinde/ATM-Project
-  description: An automated teller machine with user's Account Number, Password, bank account, deposit, and that users can withdraw or view their account balance.
+- name: Stocki
+  url: https://github.com/CarltonOsinde/Stocki
+  description: An autonomous Trading Bot that analyzes my stocks and based on a strategy buys or sells on my trading account!
   status: live
   tags:
-    - Java
-    - JDBC
-    - Swing
+    - Python
+    - WealthSimple API
+    - Google Cloud Platform
   icon: github
+  image: images/Stocki.png
 
 - name: Sports-Betting App
   url: https://github.com/CarltonOsinde/Sports-Betting-App-Python
